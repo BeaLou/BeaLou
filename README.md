@@ -1,6 +1,6 @@
 ### Oi galera, eu sou a Bea! 👋
 
-Tenho 19 anos e desde os 16 estudo sobre desenvolvimento. Minha primeira experiência foi com C# - linguagem que continua presente em meu dia a dia, pois a utilizo para desenvolvimento de aplicações WEB, desde 2019. 
+Tenho 20 anos e desde os 16 estudo sobre desenvolvimento. Minha primeira experiência foi com C# - linguagem que continua presente em meu dia a dia, pois a utilizo para desenvolvimento de aplicações WEB, desde 2019. 
 Possuo algum conhecimento sobre Java e Python, graças à faculdade (sou graduanda em Sistemas da Informação, na UNIP). 
 Além disso, também entendo um pouco de SQL, javascript. html e css. 
 
