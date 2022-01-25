@@ -7,7 +7,8 @@ Atualmente, sou desenvolvedora web - utilizo C#,HTML/CSS/javascript no dia a dia
 Além disso, já tive um breve contato com Java e Pithon, por conta das disciplinas da faculdade (sou graduanda em Sistemas de Informação - estou no meu último ano!)
 
 Se quiser conversar comigo, pode me encontrar nas seguintes redes sociais:
-![image]({https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white})
+<a href="https://www.instagram.com/bialourenco_dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+" /> </a>
 
 
 Tenho 20 anos e desde os 16 estudo sobre desenvolvimento. Minha primeira experiência foi com C# - linguagem que continua presente em meu dia a dia, pois a utilizo para desenvolvimento de aplicações WEB, desde 2019. 
