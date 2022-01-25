@@ -1,4 +1,14 @@
-### Oi galera, eu sou a Bea! 👋
+### Olá, tudo bem? Eu sou a Bea!
+Seja bem-vindo!
+
+Sou paulista, nascida em 2001 e meu primeiro contato com programação foi em 2018, durante o técnico em informática. 
+Atualmente, sou desenvolvedora web - utilizo C#,HTML/CSS/javascript no dia a dia - e pra BD, uso o MS Server.
+
+Além disso, já tive um breve contato com Java e Pithon, por conta das disciplinas da faculdade (sou graduanda em Sistemas de Informação - estou no meu último ano!)
+
+Se quiser conversar comigo, pode me encontrar nas seguintes redes sociais:
+![image]({https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white})
+
 
 Tenho 20 anos e desde os 16 estudo sobre desenvolvimento. Minha primeira experiência foi com C# - linguagem que continua presente em meu dia a dia, pois a utilizo para desenvolvimento de aplicações WEB, desde 2019. 
 Possuo algum conhecimento sobre Java e Python, graças à faculdade (sou graduanda em Sistemas da Informação, na UNIP). 
