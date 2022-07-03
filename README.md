@@ -3,18 +3,10 @@ Seja bem-vindo!✨
 
 <center><img src="https://github-readme-stats.vercel.app/api?username=BeaLou" /></center>
 
-Sou paulista, nascida em 2001 e meu primeiro contato com programação foi em 2018, durante o técnico em informática. 
-Atualmente, sou desenvolvedora web - utilizo C#,HTML/CSS/javascript no dia a dia - e pra BD, uso o MS Server.
-
-Além disso, já tive um breve contato com Java e Pithon, por conta das disciplinas da faculdade (sou graduanda em Sistemas de Informação - estou no meu último ano!)
-
-Se quiser conversar comigo, pode me encontrar nas seguintes redes sociais:
-
-<!-- instagram --> 
-<a href="https://www.instagram.com/bialourenco_dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
-<!-- linkedin --> 
-<a href="https://www.linkedin.com/in/beatriz-ramos-louren%C3%A7o-44626416a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-
+Olá, meu nome é Beatriz e eu sou formada como técnico em informática desde 2018.
+No instituto NS Fátima eu aprendi sobre lógica de programação, desenvolvimento de aplicações com C#, banco de dados SQL e manutenção de micros.
+Em 2019, ingressei no curso de Sistemas de Informação (na Universidade Paulista e me formo no segundo semestre de 2022) e iniciei o estágio, atuando com desenvolvimento de aplicações web com .Net, utilizando também HTML/CSS/JavaScript, SQL Server, Azure DevOps, IIS e SCRUM. 
+Além do interesse em tecnologia, também gosto muito de estudar idiomas - fiz alguns cursos de inglês e espanhol - e aprender coisas novas.
 
 Meu github está sendo preenchido aos poucos - pois preciso conciliar meus projetos pessoais com a facul e o trabalho.
 
