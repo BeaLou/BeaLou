@@ -10,8 +10,8 @@ Seja bem-vindo!✨
 
 </br>
 Olá, meu nome é Beatriz, sou paulista, nasci em 2001 e sou formada como técnico em informática desde 2018.
-No instituto NS Fátima eu aprendi sobre lógica de programação, desenvolvimento de aplicações com C#, banco de dados SQL e manutenção de micros.
-Em 2019, ingressei no curso de Sistemas de Informação (na Universidade Paulista e me formo no segundo semestre de 2022) e iniciei o estágio, atuando com desenvolvimento de aplicações web com .Net, utilizando também HTML/CSS/JavaScript, SQL Server, Azure DevOps, IIS e SCRUM. 
+No instituto Nossa Senhora de Fátima eu aprendi sobre lógica de programação, desenvolvimento de aplicações com C#, banco de dados SQL e manutenção de micros.
+Em 2019, ingressei no curso de Sistemas de Informação na Universidade Paulista (UNIP) e iniciei o estágio, atuando com desenvolvimento de aplicações web com .Net, utilizando também HTML/CSS/JavaScript, SQL Server, Azure DevOps, IIS e SCRUM. 
 Além do interesse em tecnologia, também gosto muito de estudar idiomas - fiz alguns cursos de inglês e espanhol - e aprender coisas novas.
 
 ### Tecnologias e Ferramentas
@@ -27,6 +27,4 @@ Além do interesse em tecnologia, também gosto muito de estudar idiomas - fiz a
                
 ### Além de programar, eu também...
 
-...gosto muito de ler e assistir animes. Há alguns anos atrás, eu tive um blog onde eu escrevia sobre os livros que lia. Infelizmente, foi um passatempo abandonado, devido ao aumento de tarefas e diminuição do tempo livre. Meu anime favorito é Dragon Ball.
-
-Eu também gosto muito de aprender e ensinar. A sensação de compartilhar conhecimento e aprender algo novo é incrível!
+...gosto muito de ler e assistir animes, além de escutar podcasts de true crime. Há alguns anos atrás, eu tive um blog onde eu escrevia sobre os livros que lia. Inclusive, criei um perfil no Instagram, pra ir registrando meu progresso, tanto acadêmico quanto profissional.Além disso, também gosto muito de aprender e ensinar. A sensação de compartilhar conhecimento e aprender algo novo é incrível! Inclusive, quando concluir a faculdade, pretendo colaborar mais com a comunidade dev.
