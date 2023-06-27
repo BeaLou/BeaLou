@@ -9,10 +9,10 @@ Seja bem-vindo!✨
 </div>
 
 </br>
-Olá, meu nome é Beatriz, sou paulista, nasci em 2001 e sou formada como técnico em informática desde 2018.
+Olá, meu nome é Beatriz, sou paulista, nasci em 2001, me formei técnica em informática em 2018 e sou {quase} formada em Sistemas de Informação (estou em contagem regressiva para colação de grau).
 No instituto Nossa Senhora de Fátima eu aprendi sobre lógica de programação, desenvolvimento de aplicações com C#, banco de dados SQL e manutenção de micros.
-Em 2019, ingressei no curso de Sistemas de Informação na Universidade Paulista (UNIP) e iniciei o estágio, atuando com desenvolvimento de aplicações web com .Net, utilizando também HTML/CSS/JavaScript, SQL Server, Azure DevOps, IIS e SCRUM. 
-Além do interesse em tecnologia, também gosto muito de estudar idiomas - fiz alguns cursos de inglês e espanhol - e aprender coisas novas.
+Em 2019, ingressei no curso de Sistemas de Informação na Universidade Paulista (UNIP) e iniciei o estágio, atuando com desenvolvimento de aplicações web com .Net, utilizando também HTML/CSS/JavaScript, SQL Server, Azure DevOps, IIS e SCRUM.  Atualmente, sou desenvolvedora Fullstack pleno, mas confesso que tenho mais facilidade pra atuar com backend.
+Além do interesse em tecnologia, também gosto muito de estudar idiomas -  inglês, espanhol e agora estou me aventurando pelo italiano- e aprender coisas novas.
 
 ### Tecnologias e Ferramentas
          
@@ -24,7 +24,9 @@ Além do interesse em tecnologia, também gosto muito de estudar idiomas - fiz a
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+          
                
-### Além de programar, eu também...
-
-...gosto muito de ler e assistir animes, além de escutar podcasts de true crime. Há alguns anos atrás, eu tive um blog onde eu escrevia sobre os livros que lia. Inclusive, criei um perfil no Instagram, pra ir registrando meu progresso, tanto acadêmico quanto profissional.Além disso, também gosto muito de aprender e ensinar. A sensação de compartilhar conhecimento e aprender algo novo é incrível! Inclusive, quando concluir a faculdade, pretendo colaborar mais com a comunidade dev.
+### Você pode me encontrar nas seguintes redes sociais:
+<a href="https://instagram.com/bibia_trixx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/beatriz-ramos-lourenço" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
