@@ -9,7 +9,7 @@ Seja bem-vindo!✨
 </div>
 
 </br>
-Olá, meu nome é Beatriz, sou paulista, nasci em 2001, me formei técnica em informática em 2018 e sou formada em Sistemas de Informação.
+Olá, meu nome é Beatriz, sou paulista, nasci em 2001, me formei técnica em informática em 2018, bacharela em Sistemas de Informação em 2023 e estou cursando Pós-Graduação em Engenharia da Computação. 
 No instituto Nossa Senhora de Fátima eu aprendi sobre lógica de programação, desenvolvimento de aplicações com C#, banco de dados SQL e manutenção de micros.
 Em 2019, ingressei no curso de Sistemas de Informação na Universidade Paulista (UNIP) e iniciei o estágio, atuando com desenvolvimento de aplicações web com .Net, utilizando também HTML/CSS/JavaScript, SQL Server, Azure DevOps, IIS e SCRUM.  
 Atualmente, sou desenvolvedora Fullstack pleno, mas confesso que tenho mais facilidade pra atuar com backend.
